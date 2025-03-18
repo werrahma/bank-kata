@@ -15,7 +15,7 @@ The Bank Kata Project is a Java-based implementation of a simplified banking sys
 To get started, clone the repository to your local machine using the following command:
 
 bash
-git clone https://github.com/your-username/bank-kata.git
+git clone https://github.com/werrahma/bank-kata.git
 cd bank-kata
 
 
